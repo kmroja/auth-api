@@ -2,7 +2,7 @@ Auth API – JWT Authentication with Node.js, Express & MongoDB
 A secure and minimal RESTful authentication API built using Node.js, Express, MongoDB, and JWT. This project provides essential features such as user registration, login, and protected routes using JWT-based authentication.
 Live URL (Render Deployment)
 Backend API Endpoint:
-https://auth-api-5uo7.onrender.com
+https://auth-api-1-mkix.onrender.com
 Features
  Register new users
 
